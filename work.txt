@@ -3,3 +3,5 @@ line 1 modifying from branch 1 adding from branch2 to check conflict
 line 2
 modification from work
 adding a line for working purpose
+
+adding line for test conflictfrom test
